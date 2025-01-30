@@ -13,4 +13,4 @@ Eneter your prompts
 
 Enjoy!
 
-Install Extension from [Here] (https://marketplace.visualstudio.com/items?itemName=vo1dnull.vo1dseek) or type `Vo1dseek` into your extension tab into VsCode
+Install Extension from [Here](https://marketplace.visualstudio.com/items?itemName=vo1dnull.vo1dseek) or type `Vo1dseek` into your extension tab into VsCode
