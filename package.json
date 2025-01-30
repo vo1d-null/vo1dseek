@@ -44,5 +44,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vo1d-null/vo1dseek"
-  }
+  },
+  "publisher": "vo1dnull"
 }
